@@ -5,7 +5,9 @@ layout: archive
 {{ content }}
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
+<body>
+	<img src="./main.png" alt="My Image">
+</body>
 {% for post in paginator.posts %}
   {% include archive-single.html %}
 {% endfor %}
