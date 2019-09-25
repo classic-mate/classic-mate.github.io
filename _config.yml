@@ -110,7 +110,7 @@ author:
   name             : 
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : 
-  location         : "SNU UX"
+  location         : 
   email            :
   links:
     - label: "Email"
