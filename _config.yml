@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : 
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : 고병휘
+  avatar           : /assets/images/bio-photo.jpg
   bio              : 
   location         : 
-  email            :
+  email            : thebest0316@snu.ac.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
