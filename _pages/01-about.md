@@ -5,7 +5,15 @@ title: "120% 활용하기"
 author_profile: true
 ---
 
-Minimal Mistakes has been developed as a [Gem-based theme](http://jekyllrb.com/docs/themes/) for easier use, and 100% compatible with GitHub Pages when used as a remote theme.
+**[랜덤 추천받기]**
+
+스테이지에 상관 없이 새로운 음악이 듣고 싶을 때는 “Ok Google, 클래식 메이트한테 랜덤추천받기”라고 말해보세요. 어쩌면 당신의 인생 음악을 찾게 될 수도 있어요!
+
+
+**[루틴 설정하기]**
+
+구글홈 루틴 설정을 이용하시면
+정해진 시간에 클래식 메이트가 찾아와요!
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
 {% for year in postsByYear %}
