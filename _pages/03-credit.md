@@ -14,7 +14,7 @@ author_profile: true
 </figure>
 
 <figure>
-  <center><img src="{{ '/assets/images/credia.png' | relative_url }}" alt="fork Minimal Mistakes" width="100"></center>
+  <center><img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjPpqXt5PPkAhWbKqYKHYWIDzYQjRx6BAgBEAQ&url=http%3A%2F%2Fwww.credia.co.kr%2F&psig=AOvVaw1Iq5P8TitOjlbYMn3Ay4RS&ust=1569769399281847" width="100"></center>
 </figure>
 
 {% include group-by-array collection=site.posts field="categories" %}
