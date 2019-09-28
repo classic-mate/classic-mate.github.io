@@ -2,11 +2,11 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Classic Mate"
+  - title: "클래식 메이트"
     url: https://classic-mate.github.io/
-  - title: "120%활용하기"
+  - title: "120% 활용하기"
     url: /year-archive/
-  - title: "FAQ"
+  - title: "자주묻는 질문"
     url: /collection-archive/
   - title: "Credit"
     url: /sitemap/
