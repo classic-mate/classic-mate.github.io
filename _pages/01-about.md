@@ -30,7 +30,7 @@ author_profile: true
 
 2019년 12월 29일
 [사라 장 바이올린 리사이틀](http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=19010938)
-]
+
 <figure>
   <img src="{{ '/assets/images/concert2.jpg' | http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=19010938 }}" alt="fork Minimal Mistakes">
 </figure>
