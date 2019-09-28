@@ -12,8 +12,7 @@ author_profile: true
 
 **[루틴 설정하기]**
 
-구글홈 루틴 설정을 이용하시면
-정해진 시간에 클래식 메이트가 찾아와요!
+구글홈 루틴 설정을 이용하시면 정해진 시간에 클래식 메이트가 찾아와요!
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
 {% for year in postsByYear %}
