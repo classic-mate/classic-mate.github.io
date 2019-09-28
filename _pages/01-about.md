@@ -21,9 +21,15 @@ author_profile: true
 
 클래식의 매력에 더욱 빠져보세요!
 
+2019년 12월 01일
+지용 피아노 리사이틀
+
 <figure>
   <img src="{{ '/assets/images/concert1.jpg' | http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=19010644 }}" alt="fork Minimal Mistakes">
 </figure>
+
+2019년 12월 29일
+사라 장 바이올린 리사이틀
 
 <figure>
   <img src="{{ '/assets/images/concert2.jpg' | http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=19010938 }}" alt="fork Minimal Mistakes">
