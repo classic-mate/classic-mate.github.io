@@ -14,6 +14,11 @@ author_profile: true
 
 구글홈 루틴 설정을 이용하시면 정해진 시간에 클래식 메이트가 찾아와요!
 
+
+**[클래식 메이트의 공연 추천]**
+
+클래식의 매력에 더욱 빠져보세요!
+
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
 {% for year in postsByYear %}
   <h2 id="{{ year.name | slugify }}" class="archive__subtitle">{{ year.name }}</h2>
