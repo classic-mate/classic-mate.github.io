@@ -10,11 +10,11 @@ author_profile: true
 모든 음원은 크레디아가 제공합니다.
 
 <figure>
-  <img src="{{ '/assets/images/land-logo.png' | relative_url }}" alt="fork Minimal Mistakes" width="100">
+  <center><img src="{{ '/assets/images/land-logo.png' | relative_url }}" alt="fork Minimal Mistakes" width="100"></center>
 </figure>
 
 <figure>
-  <img src="{{ '/assets/images/credia.png' | relative_url }}" alt="fork Minimal Mistakes" width="100">
+  <center><img src="{{ '/assets/images/credia.png' | relative_url }}" alt="fork Minimal Mistakes" width="100"></center>
 </figure>
 
 {% include group-by-array collection=site.posts field="categories" %}
