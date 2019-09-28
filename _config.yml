@@ -124,13 +124,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/userexperiencelab.pt/?ref=bookmarks"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/classic-mate/classic-mate.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/blakeko0316/"
+      url: "https://www.instagram.com/snu_ux_lab/"
 
 # Site Footer
 footer:
