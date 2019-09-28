@@ -22,11 +22,11 @@ author_profile: true
 클래식의 매력에 더욱 빠져보세요!
 
 <figure>
-  <img src="{{ '/assets/images/concert1.jpg' | relative_url }}" alt="fork Minimal Mistakes">
+  <img src="{{ '/assets/images/concert1.jpg' | http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=19010644 }}" alt="fork Minimal Mistakes">
 </figure>
 
 <figure>
-  <img src="{{ '/assets/images/concert2.jpg' | relative_url }}" alt="fork Minimal Mistakes">
+  <img src="{{ '/assets/images/concert2.jpg' | http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=19010938 }}" alt="fork Minimal Mistakes">
 </figure>
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
