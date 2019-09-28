@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /about/
-title: "About"
+title: "120% 활용하기"
 author_profile: true
 ---
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
