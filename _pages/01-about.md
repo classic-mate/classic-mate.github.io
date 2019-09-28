@@ -16,60 +16,14 @@ author_profile: true
 구글홈 루틴 설정을 이용하시면 정해진 시간에 클래식 메이트가 찾아와요!
 
 1. 루틴을 클릭
-
-<figure>
-  <img src="{{ '/assets/images/routine1.png' | relative_url }}" alt="fork Minimal Mistakes">
-</figure>
-
 2. 루틴 관리를 클릭
-
-<figure>
-  <img src="{{ '/assets/images/routine2.png' | relative_url }}" alt="fork Minimal Mistakes">
-</figure>
-
 3. 추가 버튼을 클릭
-
-<figure>
-  <img src="{{ '/assets/images/routine3.png' | relative_url }}" alt="fork Minimal Mistakes">
-</figure>
-
 4. 명령어 추가를 클릭
-
-<figure>
-  <img src="{{ '/assets/images/routine4.png' | relative_url }}" alt="fork Minimal Mistakes">
-</figure>
-
 5. 클래식 메이트 입력 후 저장
-
-<figure>
-  <img src="{{ '/assets/images/routine5.png' | relative_url }}" alt="fork Minimal Mistakes">
-</figure>
-
 6. 시간 및 날짜 설정을 클릭
-
-<figure>
-  <img src="{{ '/assets/images/routine6.png' | relative_url }}" alt="fork Minimal Mistakes">
-</figure>
-
 7. 요일, 시간, 적용할 스피커를 선택
-
-<figure>
-  <img src="{{ '/assets/images/routine7.png' | relative_url }}" alt="fork Minimal Mistakes">
-</figure>
-
 8. 작업 추가를 클릭
-
-<figure>
-  <img src="{{ '/assets/images/routine8.png' | relative_url }}" alt="fork Minimal Mistakes">
-</figure>
-
 9. 클래식 메이트한테 말하기를 입력 후 추가를 클릭
-
-<figure>
-  <img src="{{ '/assets/images/routine9.png' | relative_url }}" alt="fork Minimal Mistakes">
-</figure>
-
-
 
 ---
 
