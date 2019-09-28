@@ -14,7 +14,7 @@ author_profile: true
 </figure>
 
 <figure>
-  <img src="{{ '/assets/images/credia' | relative_url }}" alt="fork Minimal Mistakes">
+  <img src="{{ '/assets/images/credia.png' | relative_url }}" alt="fork Minimal Mistakes">
 </figure>
 
 {% include group-by-array collection=site.posts field="categories" %}
