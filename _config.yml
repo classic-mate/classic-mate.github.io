@@ -120,17 +120,17 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      # icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/userexperiencelab.pt/?ref=bookmarks"
+      # url: "https://www.facebook.com/userexperiencelab.pt/?ref=bookmarks"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/classic-mate/classic-mate.github.io"
+      # url: "https://github.com/classic-mate/classic-mate.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/snu_ux_lab/"
+      # url: "https://www.instagram.com/snu_ux_lab/"
 
 # Site Footer
 footer:
