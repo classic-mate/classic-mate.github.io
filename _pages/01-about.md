@@ -29,22 +29,23 @@ author_profile: true
 
 **클래식 메이트의 공연 추천**
 
-클래식의 매력에 더욱 빠져보세요!
+음악 감상이 끝나고 클래식 메이트가 공연 추천을 해주기도 한답니다. 깜짝 선물처럼 찾아오는 공연 추천을 놓치지 마세요!
+아래 올해의 추천 공연도 확인해보세요!
 
 * 2019년 12월 01일
 [지용 피아노 리사이틀](http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=19010644)
 
-<figure>
+<!-- <figure>
   <img src="{{ '/assets/images/concert1.jpg' | http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=19010644 }}" alt="fork Minimal Mistakes">
-</figure>
+</figure> -->
 
 * 2019년 12월 29일
 [사라 장 바이올린 리사이틀](http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=19010938)
 
-<figure>
+<!-- <figure>
   <img src="{{ '/assets/images/concert2.jpg' | http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=19010938 }}" alt="fork Minimal Mistakes">
 </figure>
-
+ -->
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
 {% for year in postsByYear %}
   <h2 id="{{ year.name | slugify }}" class="archive__subtitle">{{ year.name }}</h2>
