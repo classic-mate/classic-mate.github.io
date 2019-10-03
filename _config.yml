@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : 당신만의 클래식 메이트
   avatar           : /assets/images/bio-photo.jpeg
   bio              : 
   location         : 
-  email            : snuux.classicmate@gmail.com
+  email            : # snuux.classicmate@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
