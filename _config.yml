@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/userexperiencelab.pt/?ref=bookmarks"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/classic-mate/classic-mate.github.io"
@@ -152,7 +152,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/snu_ux_lab/"
 
 
 # Reading Files
