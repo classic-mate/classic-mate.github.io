@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"Classic Mate"
+title                    : "클래식 메이트"
 title_separator          : "-"
-subtitle                 : #"서울대학교 사용자경험연구실"
+subtitle                 : "Classic Mate"
 name                     : "Classic Mate"
 description              : "Seoul National University UX Lab"
 url                      : "https://classic-mate.github.io"
