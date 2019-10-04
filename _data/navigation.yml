@@ -2,8 +2,8 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "클래식 메이트"
-    url: https://classic-mate.github.io/
+  #- title: "클래식 메이트"
+  #  url: https://classic-mate.github.io/
   - title: "120% 활용하기"
     url: /about/
   - title: "자주 묻는 질문"
