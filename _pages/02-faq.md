@@ -8,7 +8,7 @@ author_profile: true
 **1. 알람처럼 매일 정해진 시간에 듣고 싶어요**
 
 구글홈 루틴 설정을 사용해보세요!
-루틴 설정하는 방법은 [[120% 활용하기]](https://classic-mate.github.io/about/) 탭에서 상세히 알려드릴게요.
+루틴 설정하는 방법은 [120% 활용하기](https://classic-mate.github.io/about/) 탭에서 상세히 알려드릴게요.
 
 **2. 어제와 오늘의 추천곡, 다시 듣고 싶어요**
 
