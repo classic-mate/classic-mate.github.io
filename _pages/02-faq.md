@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /faq/
-title: "자주묻는 질문"
+title: "자주 묻는 질문"
 author_profile: true
 ---
 
