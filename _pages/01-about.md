@@ -63,7 +63,7 @@ author_profile: true
 [금난새의 크리스마스 선물](http://www.clubbalcony.com/Home/classic/ticket_detail.aspx?id=28893&perfmode=inter&y=2019&m=12&s=0)
 
 * 2019년 12월 25일<br>
-[리처드 용재 오닐 [선물](http://www.clubbalcony.com/home/library/leaflet_list.aspx?Mode=r&mid=8&pid=&bid=38924&Se=TITLE&Sestr=&page=1)
+[리처드 용재 오닐 [선물]](http://www.clubbalcony.com/home/library/leaflet_list.aspx?Mode=r&mid=8&pid=&bid=38924&Se=TITLE&Sestr=&page=1)
 
 * 2019년 12월 29일<br>
 [사라 장 바이올린 리사이틀](http://www.clubbalcony.com/home/library/leaflet_list.aspx?Mode=r&mid=8&pid=&bid=38897&Se=TITLE&Sestr=&page=1)
