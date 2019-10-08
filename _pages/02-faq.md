@@ -30,7 +30,7 @@ author_profile: true
 
 **다른 문제가 있나요?**
 
-클래식메이트의 카카오톡 플러스 친구에게 문의해주세요! 
+[여기](http://pf.kakao.com/_yzAvT)를 눌러 클래식메이트의 카카오톡 플러스 친구에게 문의해주세요! 
 (ID: 클래식메이트)
 
 {% include group-by-array collection=site.posts field="categories" %}
