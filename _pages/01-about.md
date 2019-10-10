@@ -15,17 +15,14 @@ author_profile: true
 
 구글홈 루틴 설정을 이용하시면 정해진 시간에 클래식 메이트가 찾아와요!
 
-1. 루틴을 클릭
-2. 루틴 관리를 클릭
-3. 추가 버튼을 클릭
-4. 명령어 추가를 클릭
-5. 클래식 메이트 입력 후 저장
-6. 시간 및 날짜 설정을 클릭
-7. 요일, 시간, 적용할 스피커를 선택
-8. 작업 추가를 클릭
-9. 클래식 메이트한테 말하기를 입력 후 추가를 클릭
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MoXrjSrYmRs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+1. 루틴 클릭
+2. 루틴 관리 클릭
+3. 루틴 추가 클릭
+4. 원하는 명령어 및 날짜 설정, 적용할 스피커 선택
+5. 작업 추가 클릭하고 "클래식 메이트한테 말하기" 입력
+6. 저장!
 
 ---
 
