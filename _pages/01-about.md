@@ -25,6 +25,8 @@ author_profile: true
 8. 작업 추가를 클릭
 9. 클래식 메이트한테 말하기를 입력 후 추가를 클릭
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MoXrjSrYmRs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 **클래식 메이트의 공연 추천**
