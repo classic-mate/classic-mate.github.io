@@ -15,7 +15,7 @@ author_profile: true
 
 구글홈 루틴 설정을 이용하시면 정해진 시간에 클래식 메이트가 찾아와요!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MoXrjSrYmRs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-g97MQl6RXw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. 루틴 클릭
 2. 루틴 관리 클릭
