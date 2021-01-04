@@ -7,7 +7,7 @@ author_profile: true
 
 **1. 클래식 메이트, 어떻게 시작하나요?**
 
-가지고 계신 [<mark>구글 스마트스피커</mark>](https://store.google.com/kr/magazine/compare_nest_speakers_displays)에 ‘Ok Google, 클래식 메이트에게 말하기’ 를 시도해 보세요.
+가지고 계신 [<mark>구글 스마트스피커</mark>](https://store.google.com/kr/magazine/compare_nest_speakers_displays){:target="_blank"}에 ‘Ok Google, 클래식 메이트에게 말하기’ 를 시도해 보세요.
 
 **2. 구글 스마트스피커에서만 가능한가요?**
 
@@ -16,7 +16,7 @@ author_profile: true
 **3. 토니는 누구인가요?**
 
 여러분이 AI를 더욱 즐겁게 이용할 수 있도록 준비했답니다. 클래식 음악을 설명해 주는 캐릭터이고, 작곡가 ‘안토니오 비발디’에서 따온 이름이라 토니랍니다. 어디선가 들어본 목소리인가요?
-[바이올리니스트 대니 구](http://www.credia.co.kr/board/?db=gallery_2&no=124&mari_mode=view@view)의 실제 목소리를 합성해서 제작 했습니다.  
+[바이올리니스트 대니 구](http://www.credia.co.kr/board/?db=gallery_2&no=124&mari_mode=view@view){:target="_blank"}의 실제 목소리를 합성해서 제작 했습니다.  
 
 
 **4. 스마트스피커가 멈춘 것 같아요...**
@@ -39,12 +39,12 @@ author_profile: true
 
 **8. 계정 연동이 안되는데...**
 
-구글홈 보이스 매치를 설정해보세요! 보이스 매치 설정 방법은 [이곳](https://support.google.com/googlenest/answer/7342711?hl=ko)에서 확인하실 수 있습니다.
+구글홈 보이스 매치를 설정해보세요! 보이스 매치 설정 방법은 [이곳](https://support.google.com/googlenest/answer/7342711?hl=ko){:target="_blank"}에서 확인하실 수 있습니다.
 클래식 메이트를 처음 사용하실 때 계정 정보 사용에 꼭 동의를 해주셔야 합니다!
 
 **9. 사용할 때마다 새로 계정을 연동하래요**
 
-[구글 내 활동](https://myactivity.google.com/myactivity?hl=ko)에서 [활동 제어]에 들어가세요. [웹 및 앱 활동] 아래의 두 가지 항목을 모두 체크해주시면 됩니다!
+[구글 내 활동](https://myactivity.google.com/myactivity?hl=ko){:target="_blank"}에서 [활동 제어]에 들어가세요. [웹 및 앱 활동] 아래의 두 가지 항목을 모두 체크해주시면 됩니다!
 
 **10. 계정이 리셋됐는데, 이어서 듣고 싶어요**
 
