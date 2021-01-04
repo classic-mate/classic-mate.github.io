@@ -7,7 +7,7 @@ author_profile: true
 
 **1. 클래식 메이트, 어떻게 시작하나요?**
 
-가지고 계신 <mark> [구글 스마트스피커](https://store.google.com/kr/magazine/compare_nest_speakers_displays) </mark>에 ‘Ok Google, 클래식 메이트에게 말하기’ 를 시도해 보세요.
+가지고 계신 [<mark>구글 스마트스피커</mark>](https://store.google.com/kr/magazine/compare_nest_speakers_displays)에 ‘Ok Google, 클래식 메이트에게 말하기’ 를 시도해 보세요.
 
 **2. 구글 스마트스피커에서만 가능한가요?**
 
