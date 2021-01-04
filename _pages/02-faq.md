@@ -52,7 +52,7 @@ author_profile: true
 
 **다른 문제가 있나요?**
 
-[info@credia.co.kr](info@credia.co.kr){:target="_blank"}로 문의해주세요
+<info@credia.co.kr>로 문의해주세요
 
 
 {% include group-by-array collection=site.posts field="categories" %}
