@@ -21,8 +21,11 @@ author_profile: true
 > 클래식 음악의 대중화에 맞춘 전문적인 콘텐츠 기획 및 양질의 음원 제공
 
  -->
-> **큐레이션 및 음원 제공 : 크레디아 <br>**
-> **서비스 기획 및 개발 : 서울대학교 UX랩**
+> 큐레이션 : 디토디지털오디세이 <br>
+> 서비스 기획 및 개발 : 서울대학교 UX랩 <br>
+> 음원 제공: <br>
+> &nbsp;&nbsp;&nbsp;&nbsp; 크레디아뮤직앤아티스트 http://www.credia.co.kr/ <br>
+> &nbsp;&nbsp;&nbsp;&nbsp; 코리안심포니오케스트라 http://koreansymphony.com/ 
 
 ---
 
