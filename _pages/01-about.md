@@ -52,6 +52,8 @@ author_profile: true
 가격은 낮추고 감동은 올리고, 당신의 1년이 클래식해 집니다. <br>
 믿고 듣는 크레디아의 대표 아티스트와 쟁쟁한 해설자가 함께하는 마티네 공연을 소개합니다. 한달에 한번, 2021년 연간 총 10회 롯데콘서트홀에서 만나보세요. 정상급 연주자의 연주와 명망 높은 해설을 합리적인 가격으로 감상할 수 있습니다. 
 
+![Credia Classic Club](https://github.com/classic-mate/classic-mate.github.io/blob/master/assets/images/crediaclassicclub.jpeg)
+
 
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
