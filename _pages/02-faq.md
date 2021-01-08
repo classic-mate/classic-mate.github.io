@@ -20,7 +20,7 @@ author_profile: true
 
 우선... 스마트스피커와 본인의 Google 계정(Gmail)을 연결해 봅시다!
 1. 스마트폰을 꺼낸다
-2. 스마트폰에 'Google 홈' 앱을 설치한다. [👍 안드로이드](https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app&hl=ko&gl=US)  [👍 iOS](https://apps.apple.com/kr/app/google-home/id680819774)
+2. 스마트폰에 'Google 홈' 앱을 설치한다. [👍 안드로이드](https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app&hl=ko&gl=US){:target="_blank"}  [👍 iOS](https://apps.apple.com/kr/app/google-home/id680819774){:target="_blank"}
 3. Google 홈 앱 안내에  따라 기기와 연동을 한다.
 4. 이제 스피커에 “오케이 구글, 클래식 메이트 불러줘’ 를 해본다.
 <br><br>
@@ -30,7 +30,7 @@ author_profile: true
 Google 어시스턴트가 탑재된 스마트 기기에서도 사용 가능합니다.  
 예를 들어, 스마트폰에서 <mark>**Google 어시스턴트 앱** 설치 후</mark>  
 위의 1번을 시도해 보세요.  
-[👍 안드로이드](https://play.google.com/store/apps/details?id=com.google.android.apps.googleassistant&hl=ko&gl=US)  [👍 iOS](https://apps.apple.com/kr/app/google-%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8/id1220976145)
+[👍 안드로이드](https://play.google.com/store/apps/details?id=com.google.android.apps.googleassistant&hl=ko&gl=US){:target="_blank"}  [👍 iOS](https://apps.apple.com/kr/app/google-%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8/id1220976145){:target="_blank"}
 <br><br>
 
 **4. 토니는 누구인가요?**
@@ -62,7 +62,7 @@ Google 어시스턴트가 탑재된 스마트 기기에서도 사용 가능합�
   
 **8. 지금까지 들었던 곡을 알 수는 있나요? 다 메모를 못해서 궁금한데..**
 
-[클럽발코니](https://clubbalcony.com/) 홈페이지에서 10일 단위로 오늘의 추천곡과 연관곡을 업데이트 해드리고 있습니다.  
+[클럽발코니](https://clubbalcony.com/){:target="_blank"} 홈페이지에서 10일 단위로 오늘의 추천곡과 연관곡을 업데이트 해드리고 있습니다.  
 STORY 내 클래식 메이트 게시물을 쉽게 찾으실 수 있을 거에요.
 <br><br>
   
@@ -81,7 +81,7 @@ Google 홈 보이스 매치를 설정해보세요!
   
 **11. 실수로 연결해제 했는데, 이어서 듣고 싶어요**
 
-[Google 어시스턴트의 클래식 메이트 페이지](https://assistant.google.com/services/a/uid/00000086a4223123?hl=ko-KR)에서 다시 ‘연결하기’를 해보세요.   
+[Google 어시스턴트의 클래식 메이트 페이지](https://assistant.google.com/services/a/uid/00000086a4223123?hl=ko-KR){:target="_blank"}에서 다시 ‘연결하기’ 해보세요.   
 재설정 후 '오케이 구글, 클래식 메이트에게 말하기'로 찾아주시면 됩니다. 
 <br><br>
   
